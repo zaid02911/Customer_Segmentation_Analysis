@@ -1,0 +1,12 @@
+Customer Segmentation Analysis
+Skills: Pandas (grouping, filtering), Matplotlib (pie charts, bar plots).
+
+Project Idea: Segment customers based on purchasing behavior.
+
+Deliverables:
+
+RFM (Recency, Frequency, Monetary) analysis.
+
+Identify high-value customers.
+
+Dataset: Retail Transaction Data.
